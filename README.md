@@ -6,6 +6,6 @@ If you want to make a multiple choice game for iOS devices, you can use this tem
 It will be **improved** soon. 
 
 TODO:
-⋅⋅* Connect the app to a database(Firebase would be my first choice)
-⋅⋅* Create basic administration system
-⋅⋅* Upload question to your database
+* Connect the app to a database(Firebase would be my first choice)
+* Create basic administration system
+* Upload question to your database
