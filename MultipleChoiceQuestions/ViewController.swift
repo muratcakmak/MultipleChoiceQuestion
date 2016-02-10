@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        questions = [Question(question: "En güzel kız kimdir?", choices: ["Irem", "Irem Az", "Elif Irem Az", "Elif Irem Az Cakmak"], answer: 3)]
+        questions = [Question(question: "Who is the most beautiful girl ever?", choices: ["Irem", "Irem Az", "Elif Irem Az", "Elif Irem Az Cakmak"], answer: 3)]
         
         for question in questions{
             presentQuestion(question)
